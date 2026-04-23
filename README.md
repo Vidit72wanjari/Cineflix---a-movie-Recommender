@@ -76,11 +76,20 @@ CineFlix transforms raw user data into **actionable recommendations**:
 
 ### 🔹 User Segmentation & Similarity Matrix
 
-![Clustering and Similarity](attachment\:file_000000009f6471fabb11230e966318ce)
+<img width="1471" height="551" alt="image" src="https://github.com/user-attachments/assets/ecd4459c-d5f8-463d-852a-2b59b2568426" />
+
 
 ### 🔹 Predicted Ratings & Model Metric
 
-![Predictions and Score](attachment\:file_000000007a0871fa8eab961d1c57371d)
+<img width="1474" height="481" alt="image" src="https://github.com/user-attachments/assets/6840efd2-0ea6-46a6-83f1-8464387d013a" />
+
+## 📸 Cineflix 
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/5769d096-2dc6-49fe-88ec-1978396c10a1" />
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/e4bbcd24-973a-4983-8db8-a40c0b989a1f" />
+<img width="857" height="821" alt="image" src="https://github.com/user-attachments/assets/8c9bd4d0-55cd-4a1e-a448-c85560a1bed3" />
+
+
+
 
 ---
 
