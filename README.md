@@ -150,7 +150,7 @@ Predicted rating is calculated using weighted average:
 
 ---
 
-# 🔄 Hybrid Model Logic (Important for Viva)
+# 🔄 Hybrid Model Logic 
 
 This is where most students fail explaining:
 
