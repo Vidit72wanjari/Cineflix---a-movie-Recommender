@@ -1,0 +1,34 @@
+{
+    "engine": "Scikit-Learn K-Means",
+    "version": "1.6.1",
+    "clustering_algorithm": "K-Means++",
+    "feature_count": 21,
+    "clusters": [
+        {
+            "id": 0,
+            "name": "ADRENALINE BLOCKBUSTER",
+            "type": "High-Impact Action & Adventure"
+        },
+        {
+            "id": 1,
+            "name": "NOIR INTELLIGENCE",
+            "type": "Cerebral Crime & Thrillers"
+        },
+        {
+            "id": 2,
+            "name": "SPECULATIVE FRONTIER",
+            "type": "High-Concept Sci-Fi & Fantasy"
+        },
+        {
+            "id": 3,
+            "name": "HUMAN EXPERIENCE",
+            "type": "Thematic Drama & Narrative Depth"
+        },
+        {
+            "id": 4,
+            "name": "PIXEL MASTERPIECE",
+            "type": "Advanced Animation & Family Arcs"
+        }
+    ],
+    "inference_timestamp": "2026-04-19T01:23:56.475377"
+}
